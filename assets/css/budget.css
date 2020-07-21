@@ -108,6 +108,15 @@ body {
     border-radius: 3px;
 }
 
+@media screen and (max-width: 480px) {
+    .budget{
+        width: 100%;
+    }
+    .budget__title{
+        font-size: 40px;  
+    }
+}
+
 /**********************************************
 *** BOTTOM PART
 **********************************************/
